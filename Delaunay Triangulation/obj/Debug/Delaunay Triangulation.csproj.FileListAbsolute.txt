@@ -1,0 +1,38 @@
+C:\Users\user\Desktop\Учеба\Delaunay Triangulation\Delaunay Triangulation\bin\Debug\Delaunay Triangulation.exe.config
+C:\Users\user\Desktop\Учеба\Delaunay Triangulation\Delaunay Triangulation\bin\Debug\Delaunay Triangulation.exe
+C:\Users\user\Desktop\Учеба\Delaunay Triangulation\Delaunay Triangulation\bin\Debug\Delaunay Triangulation.pdb
+C:\Users\user\Desktop\Учеба\Delaunay Triangulation\Delaunay Triangulation\obj\Debug\Delaunay Triangulation.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Учеба\Delaunay Triangulation\Delaunay Triangulation\obj\Debug\Delaunay_Triangulation.Form1.resources
+C:\Users\user\Desktop\Учеба\Delaunay Triangulation\Delaunay Triangulation\obj\Debug\Delaunay_Triangulation.Properties.Resources.resources
+C:\Users\user\Desktop\Учеба\Delaunay Triangulation\Delaunay Triangulation\obj\Debug\Delaunay Triangulation.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Учеба\Delaunay Triangulation\Delaunay Triangulation\obj\Debug\Delaunay Triangulation.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Учеба\Delaunay Triangulation\Delaunay Triangulation\obj\Debug\Delaunay Triangulation.exe
+C:\Users\user\Desktop\Учеба\Delaunay Triangulation\Delaunay Triangulation\obj\Debug\Delaunay Triangulation.pdb
+C:\Users\1\Desktop\Delaunay Triangulation\Delaunay Triangulation\bin\Debug\Delaunay Triangulation.exe.config
+C:\Users\1\Desktop\Delaunay Triangulation\Delaunay Triangulation\obj\Debug\Delaunay Triangulation.exe
+C:\Users\1\Desktop\Delaunay Triangulation\Delaunay Triangulation\obj\Debug\Delaunay Triangulation.pdb
+C:\Users\1\Desktop\Delaunay Triangulation\Delaunay Triangulation\obj\Debug\Delaunay Triangulation.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Delaunay Triangulation\Delaunay Triangulation\obj\Debug\Delaunay_Triangulation.Form1.resources
+C:\Users\1\Desktop\Delaunay Triangulation\Delaunay Triangulation\obj\Debug\Delaunay_Triangulation.Properties.Resources.resources
+C:\Users\1\Desktop\Delaunay Triangulation\Delaunay Triangulation\obj\Debug\Delaunay Triangulation.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\Delaunay Triangulation\Delaunay Triangulation\bin\Debug\Delaunay Triangulation.exe
+C:\Users\1\Desktop\Delaunay Triangulation\Delaunay Triangulation\bin\Debug\Delaunay Triangulation.pdb
+G:\Delaunay Triangulation\Delaunay Triangulation\bin\Debug\Delaunay Triangulation.exe.config
+G:\Delaunay Triangulation\Delaunay Triangulation\obj\Debug\Delaunay Triangulation.exe
+G:\Delaunay Triangulation\Delaunay Triangulation\obj\Debug\Delaunay Triangulation.pdb
+G:\Delaunay Triangulation\Delaunay Triangulation\bin\Debug\Delaunay Triangulation.exe
+G:\Delaunay Triangulation\Delaunay Triangulation\bin\Debug\Delaunay Triangulation.pdb
+G:\Delaunay Triangulation\Delaunay Triangulation\obj\Debug\Delaunay Triangulation.csprojResolveAssemblyReference.cache
+G:\Delaunay Triangulation\Delaunay Triangulation\obj\Debug\Delaunay_Triangulation.Form1.resources
+G:\Delaunay Triangulation\Delaunay Triangulation\obj\Debug\Delaunay_Triangulation.Properties.Resources.resources
+G:\Delaunay Triangulation\Delaunay Triangulation\obj\Debug\Delaunay Triangulation.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Delaunay Triangulation\Delaunay Triangulation\bin\Debug\Delaunay Triangulation.exe.config
+C:\Users\user\Desktop\Delaunay Triangulation\Delaunay Triangulation\bin\Debug\Delaunay Triangulation.exe
+C:\Users\user\Desktop\Delaunay Triangulation\Delaunay Triangulation\bin\Debug\Delaunay Triangulation.pdb
+C:\Users\user\Desktop\Delaunay Triangulation\Delaunay Triangulation\obj\Debug\Delaunay Triangulation.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Delaunay Triangulation\Delaunay Triangulation\obj\Debug\Delaunay_Triangulation.Form1.resources
+C:\Users\user\Desktop\Delaunay Triangulation\Delaunay Triangulation\obj\Debug\Delaunay_Triangulation.Properties.Resources.resources
+C:\Users\user\Desktop\Delaunay Triangulation\Delaunay Triangulation\obj\Debug\Delaunay Triangulation.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Delaunay Triangulation\Delaunay Triangulation\obj\Debug\Delaunay Triangulation.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Delaunay Triangulation\Delaunay Triangulation\obj\Debug\Delaunay Triangulation.exe
+C:\Users\user\Desktop\Delaunay Triangulation\Delaunay Triangulation\obj\Debug\Delaunay Triangulation.pdb
